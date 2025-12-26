@@ -1,7 +1,7 @@
 # **CXFlow360 Engage - TL;DR Summaries**
 
 ## **📋 1-Line Summary**
-CXFlow360 Engage is an AI-powered platform that transforms employee assessment data into personalized growth plans, connecting skills development directly to business outcomes.
+CXFlow360 Engage is an AI-powered employee intelligence platform that analyzes multiple assessment types to create personalized, predictive growth pathways. Read the full documentation here.
 
 ## **🎯 3-Bullet Executive Summary**
 - **AI-Powered Assessment Intelligence:** Analyzes all assessment types (competency, 360°, psychometric) to create personalized development paths
